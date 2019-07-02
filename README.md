@@ -9,15 +9,15 @@ Without setting up Matlab Engine on Desktop (Remote System) correctly:
 There are 3 main segments of this project:
 
 1. Mobile Application (main counter-part)
-  -Connect to a remote location
-  -Adjust camera settings
-  -Capture RAW images
-  -Transfer Images to remote location
+    -Connect to a remote location
+   -Adjust camera settings
+   -Capture RAW images
+    -Transfer Images to remote location
   
 2. Dektop Interface
-  -Communicates with mobile device
-  -Adjust camera settings remotely from desktop
-  -Recieve incoming Images
+    -Communicates with mobile device
+    -Adjust camera settings remotely from desktop
+    -Recieve incoming Images
 
 3. Matlab Engine
   -Enables Java Dekstop application to process images it recieves by accessing Matlab Image processing library
