@@ -1,5 +1,5 @@
 # QMoct
-Mobile OCT System Implementation
+Mobile OCT System Implementation~ Using a modern smartphone with modest specs(not the latest and greatest but usbale) to capture hight *BURSTS* of RAW images, in order to create an OCT image by processing them together. Various potential issues were found throughout this project, solutions were provided i.e. when capturing large volumes of RAW Images, the handheld device had no external memory, so implementing asynchronous loops in order to transfer captured images as they are captured using TCP/IP rather than UDP as teh information in each image holds value, so we can't afford to drop any pixels, other solutions were provided to combat issues found trhoughout this project.
 
 # Important Note
 Without setting up Matlab Engine on Desktop (Remote System) correctly: 
