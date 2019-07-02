@@ -3,7 +3,7 @@ Mobile OCT System Implementation
 
 # Important Note
 Without setting up Matlab Engine on Desktop (Remote System) correctly: 
-*This project will not work as intended.
+*This project will not work as intended.*
 
 # Segments
 There are 3 main segments of this project:
@@ -26,6 +26,6 @@ There are 3 main segments of this project:
 Java, Matlab, Android, and a sprinkle of hope
 
 # Improvements currently being worked on
--Recreate mobile application using Flutter: allowing the same code base to run on both IOS and Android
--Improvements to current functionality
--Improvments to UI
+  - Recreate mobile application using Flutter: allowing the same code base to run on both IOS and Android
+  - Improvements to current functionality
+  - Improvments to UI
