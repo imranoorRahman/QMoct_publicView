@@ -29,3 +29,6 @@ Java, Matlab, Android, and a sprinkle of hope
   - Recreate mobile application using Flutter: allowing the same code base to run on both IOS and Android
   - Improvements to current functionality
   - Improvments to UI
+  
+  # Acknowledgement
+  Thanking Dr.Robert Donnan and Dr.Peter Tomlins from QMUL for support and guidance
